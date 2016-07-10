@@ -3,7 +3,7 @@
 #include<stdio.h>
 void main()
 {
-char name={"TREE"};
+char nam={"TREE"};
 int thickness;
 int branches;
 char color[];
